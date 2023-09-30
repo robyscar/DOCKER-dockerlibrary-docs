@@ -1,1 +1,0 @@
-[Carlos Sanchez](%%GITHUB-REPO%%)
